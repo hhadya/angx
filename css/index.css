@@ -1,0 +1,385 @@
+*{
+box-sizing: border-box;
+}
+body{
+     background: linear-gradient(#B8B8FF, #B1B1F5, #6E6E99);
+}
+
+.wing{
+    position: fixed;
+    text-align: right;
+    color: white;
+    font-family: "Inter_18pt-SemiBold";
+    font-size: 32px;
+    position: relative;
+    margin-top: 200px;
+    margin-right: 120px;
+    top: 140px;
+    }
+.ang1 {
+ color: white;
+ size: 240px;
+background-position-x: 44%;
+ background-position-y: 232%;
+ font-family: "Inter_18pt-SemiBold";
+font-size: 240px;
+margin-left: 105px;
+margin-top: 100px;
+}
+
+.boo{
+
+     color: white;
+
+     text-align: right;
+
+     margin-top: -235px;
+
+    size: 240px;
+
+    font-family: "Inter_18pt-SemiBold";
+
+    font-size: 240px;
+    margin-right: 90px;
+
+}
+.angbo{
+     margin-left: 100px;
+     margin-bottom: -720px;
+}
+
+.sstar{
+margin-left: 580px;
+margin-top: -300px;
+width: 400px;
+}
+
+.wr{
+    margin-top: 300px;
+    margin-left: -100px;
+}
+.text1{
+    font-family:"Inter_18pt-Medium" ;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.star_1{
+    margin-left: 90px;
+    margin-top: 80px;
+}
+.star_2{
+    margin-left: -10px;
+}
+.star_3{
+    margin-left: -10px;
+}
+.star_4{
+    margin-left: -10px;
+}
+.star_5{
+    margin-left: -10px;
+}
+.star_6{
+    margin-left: -10px;
+}
+.prstar_1{
+   margin-left: 90px;
+}
+.prstar_2{
+    margin-left: -10px;
+}
+.prstar_3{
+    margin-left: -10px;
+}
+.prstar_4{
+    margin-left: -10px;
+}
+.prstar_5{
+    margin-left: -10px;
+}
+.prstar_6{
+    margin-left: -10px;
+}
+.text2{
+    font-family: "Inter_18pt-Medium";
+    font-size: 24px;
+    text-align: right;
+    margin-top: -150px;
+}
+.white_1{
+    margin-top: 300px;
+    margin-left: 0px;
+}
+.no_1{
+    margin-left: 100px;
+}
+.pravila{
+    font-family:"Inter_18pt-SemiBold" ;
+    font-size: 90px;
+    color: white;
+    margin-top: -100px;
+    margin-left: 230px;
+}
+.no_2{
+    margin-left: 450px;
+}
+.rbb{
+    margin-top: 90px;
+}
+.wow1{
+    margin-top: -600px;
+    margin-left:800px;
+}
+.cube{
+    margin-top: -600px;
+    margin-left: 1170px;
+}
+.nas{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-bottom: 500px;
+    margin-top: -465px;
+    margin-left: 150px;
+}
+.oryz{
+     font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+   margin-bottom: 900px;
+    margin-top: -430px;
+    margin-left: 150px;
+
+}
+.smer{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+   margin-bottom: 900px;
+    margin-top: -830px;
+    margin-left: 150px;
+}
+.soper{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+   margin-bottom: 500px;
+    margin-top: -830px;
+    margin-left: 150px;
+}
+.perch_1{
+margin-top: -400px;
+margin-left: 210px;
+}
+.best{
+    font-family:"Inter_18pt-SemiBold" ;
+    font-size: 90px;
+    color: white;
+    margin-top: -100px;
+    margin-left: 400px;
+}
+.perch_2{
+    margin-left: 830px;
+}
+.an_1{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.an_2{
+    margin-left: 20px;
+}
+.an_3{
+    margin-left: 20px;
+}
+.seraphim{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-left: 200px;
+}
+.ser1{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-left: 150px;
+}
+.arhangel{
+     font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-left: 680px;
+   margin-bottom: 100px;
+   margin-top: -60px;
+}
+.arh1{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-left: 650px;
+    margin-bottom: 100px;
+   margin-top: -102px;
+}
+.prestol{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-left: 1150px;
+   margin-bottom: 100px;
+   margin-top: -160px;
+}
+.pres1{
+     font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-left: 1130px;
+   margin-bottom: 100px;
+   margin-top: -100px;
+}
+.bilet{
+     font-family:"Inter_18pt-SemiBold" ;
+    font-size: 90px;
+    color: white;
+    margin-top: 250px;
+    margin-left: 20px;
+}
+.text3{
+    font-family: "Inter_18pt-Medium";
+    font-size: 24px;
+    color: black;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.bil_1{
+    margin-top: 150px;
+    margin-left: 350px;
+}
+.bil_2{
+      margin-top: 10px;
+    margin-left: 350px;
+}
+
+.eye_1{
+    margin-top: 300px;
+    margin-left: 350px;
+}
+.eye_2{
+    margin-left: 600px;
+}
+.creators{
+     font-family:"Inter_18pt-SemiBold" ;
+    font-size: 90px;
+    color: white;
+    margin-top: -90px;
+    margin-left: 495px;
+}
+.wirb{
+    margin-left: 200px;
+}
+.wirb_2{
+    margin-top: -581px;
+    margin-left: 760px;
+}
+.sud{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 410px;
+}
+.sud_1{
+    font-family: "Inter_18pt-Medium";
+    font-size: 32px;
+    color: white;
+    margin-top: -28px;
+    margin-left: 880px;
+}
+.mech_1{
+    margin-top: 300px;
+    margin-left: 220px;
+}
+.mech_2{
+    margin-left: 940px;
+}
+.text_4{
+    font-family:"Inter_18pt-SemiBold" ;
+    font-size: 90px;
+    color: white;
+    margin-top: -100px;
+    margin-left: 300px;
+}
+.m_1{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.m_3{
+    margin-top: 90px;
+    margin-left: 150px;
+}
+.podv{
+    margin-top: 200px;
+    margin-left: 0px;
+    width: 1600px;
+}
+.avtor{
+    font-family:"Inter_18pt-Bold" ;
+    font-size: 24px;
+    color: white;
+    margin-top: -350px;
+    margin-left: 100px;
+}
+.me{
+     font-family:"Inter_18pt-Regular" ;
+    font-size: 24px;
+    color: white;
+    margin-top: 80px;
+    margin-left: 90px;
+}
+.uki{
+     font-family:"Inter_18pt-Regular" ;
+    font-size: 24px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.kurator{
+      font-family:"Inter_18pt-Bold" ;
+    font-size: 24px;
+    color: white;
+    margin-left: 700px;
+    margin-top: -205px;
+}
+.kamila{
+    font-family:"Inter_18pt-Regular" ;
+    font-size: 24px;
+    color: white;
+    margin-left: 700px;
+    margin-top: 79px;
+}
+.nona{
+    font-family:"Inter_18pt-Regular" ;
+    font-size: 24px;
+    color: white;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.artyom{
+     font-family:"Inter_18pt-Regular" ;
+    font-size: 24px;
+    color: white;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.starlast{
+    margin-top: -200px;
+    margin-left: 1300px;
+}
+.amm{
+    font-family:"Inter_18pt-Regular" ;
+    font-size: 42px;
+    color: #BC313E;
+    margin-left: 1330px;
+    margin-top: 20px;
+}

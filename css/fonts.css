@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Inter_18pt-Regular";
+    src: url("../fonts/static/Inter_18pt-Regular.ttf") format(truetype);
+    font-weight: 400px;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Inter_18pt-Medium";
+    src: url("../fonts/static/Inter_18pt-Medium.ttf") format(truetype);
+    font-weight: 500px;
+    font-style: medium;
+}
+@font-face {
+    font-family: "Inter_18pt-SemiBold";
+    src: url("../fonts/static/Inter_18pt-SemiBold.ttf") format(truetype);
+    font-weight: 600px;
+    font-size: normal;
+}
+@font-face {
+    font-family: "Inter_18pt-Bold";
+    src: url("../fonts/static/Inter_18pt-Bold.ttf") format(truetype);
+    font-weight: 700px;
+    font-size: bold;
+}
